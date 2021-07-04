@@ -1,1 +1,1 @@
-# fresherbatch-june-batch
+# Assignments
